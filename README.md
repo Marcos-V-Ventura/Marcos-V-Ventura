@@ -25,7 +25,7 @@ Meu nome é Marcos Vinicius, e sou apaixonado pelo potencial dos dados e tenho e
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcos-V-Ventura&show_icons=true&count_private=true&hide_border=true&title_color=FFFF99&icon_color=FFE4B5&text_color=87CEEB&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&hide_border=true&title_color=FFFF99&text_color=87CEEB&bg_color=0d1117" />
 </div>
-
+<br>
 <div align="center"> 
   <a href="mailto:marcosvventura.11@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
