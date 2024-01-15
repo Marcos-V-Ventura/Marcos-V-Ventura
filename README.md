@@ -15,10 +15,6 @@ Meu nome é Marcos Vinicius, e sou apaixonado pelo potencial dos dados e tenho e
   <strong>EN-US</strong>
 </div>My name is Marcos Vinicius, and I am passionate about the potential of data. I have been studying this field since 2021. Thanks to this interest, I have obtained a qualification as a Systems Development Technician. Currently, my area of focus is data science and back-end development.
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcos-V-Ventura&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcos-V-Ventura&show_icons=true&count_private=true&hide_border=true&title_color=FFFF99&icon_color=FFE4B5&text_color=87CEEB&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&hide_border=true&title_color=FFFF99&text_color=87CEEB&bg_color=0d1117" />
